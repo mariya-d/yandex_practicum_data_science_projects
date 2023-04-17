@@ -9,7 +9,6 @@
 - pandas
 - EDA
 - matplotlib
-- seaborn
 
 # Описание данных
 airports_nearest — расстояние до ближайшего аэропорта в метрах (м)
